@@ -14,9 +14,8 @@
     "express",
     "nojs"
   ],
-  "dependencies" : {
-    "moment"   :  "1.7.2",
-    "express-useragent" :  "0.0.7",
+  "dependencies": {
+    "express-useragent": "0.0.7",
     "underscore.string": "2.3.0"
   },
   "license": "MIT",
